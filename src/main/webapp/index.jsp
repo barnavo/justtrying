@@ -1,6 +1,6 @@
 <html>
 <body>
-  <meta name="insight-app-sec-validation" content="cd00884c-4001-4ce3-a322-471ff73e4c93">
+  <meta name="insight-app-sec-validation" content="1648fd07-322c-48ab-b5a3-6b5d460254c6">
 <h2>Hello World!</h2>
 </body>
 </html>
